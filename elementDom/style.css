@@ -1,0 +1,17 @@
+div{
+    color:aquamarine;
+    background-color:brown;
+    height: 200px;
+    width: 100px;
+    border:2px solid black;
+    font-size: large;
+}
+
+.abc
+{
+    color:red;
+}
+.newclass{
+    background-color: aqua;
+
+}
